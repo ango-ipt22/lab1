@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 file 1 change in 2_branch local
+=======
+file 1 change in 2_branch remote
+>>>>>>> dde1efafdf3c53c9cc9fd54ec2ae720a87721367
